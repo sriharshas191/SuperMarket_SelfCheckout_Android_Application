@@ -11,3 +11,11 @@ Proposed Solution :
 
 
 TECHNOLOGIES USED:  JAVA,XML,FIREBASE.
+
+
+
+Teaam Details:
+
+1.S S Sri Harsha
+2.Sk Md Vasim
+3.P Sai Naga Saketh
