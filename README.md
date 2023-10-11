@@ -12,9 +12,7 @@ Proposed Solution :
 
 TECHNOLOGIES USED:  JAVA,XML,FIREBASE.
 
-
-
-Teaam Details:
+Team Details:
 
 1.S S Sri Harsha
 2.Sk Md Vasim
